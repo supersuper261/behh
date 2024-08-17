@@ -109,7 +109,7 @@ body {
     width: 350px; /* Adjust the width to your liking */
     margin: 40px auto; /* Center the letter */
     overflow-y: hidden;
-    font-family: 'Pacifico'; /* Add this line to change the font style */
+    font-family: "Caveat";
   }
 
   .letter p {
