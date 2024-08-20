@@ -102,7 +102,6 @@ body {
     transform: translate(-50%, -50%) scaleY(0) translateY(-40px); /* Adjusted translateY to move the letter up */
     transform-origin: center; /* Set the transform origin to the bottom */
     height: auto; /* Reduced letter size for better visibility on a phone */
-    border-radius: 0;
     z-index: 5; /* Adjusted z-index to ensure it's below the envelope */
     transition: transform 1s ease-in-out; /* Adjusted transition duration */    padding: 5px;
     border: none;
@@ -1704,7 +1703,6 @@ html, body, .container {
 
 .card {
   background-color: #F4EBDA;
-  border-radius: 0.25rem;
   display: flex;
   flex-direction: column;
   overflow: hidden;
